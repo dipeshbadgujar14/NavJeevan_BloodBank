@@ -27,7 +27,7 @@ SECRET_KEY = 'iw8)hzniv-@68f)p)4s6cxgwoi%j)m$y6!+sqah%ew(*^%t+wh'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['x22240471-bloodbank.us-east-2.elasticbeanstalk.com', '127.0.0.1', 'localhost']
 
 
 # Application definition
